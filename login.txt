@@ -1,4 +1,4 @@
 function login(){
 	ini fitur untuk login;
-	tambah fitur akun facebook untuk login;
+	tambah fitur akun google untuk login;
 }
