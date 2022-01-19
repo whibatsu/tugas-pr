@@ -1,4 +1,4 @@
 function register(){
 	ini fitur untuk register;
-	tambah fitur akun facebook untuk register;
+	tambah fitur akun google untuk register;
 }
