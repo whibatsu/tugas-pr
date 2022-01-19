@@ -1,3 +1,4 @@
 function register(){
 	ini fitur untuk register;
+	tambah fitur otp untuk register;
 }
